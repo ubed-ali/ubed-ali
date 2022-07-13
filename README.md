@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ubed-ali
-- 👀 I’m interested in ...
+- 👀 I’m interested in backend tech.
 - 🌱 I’m currently learning kotlin.
 - 📫 How to reach me syedubed09@gmail.com
 
