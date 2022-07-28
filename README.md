@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ubed-ali
+- 👋 Hi, I’m Ubed
 - 👀 I’m interested in backend tech.
 - 🌱 I’m currently learning kotlin.
-- 📫 How to reach me syedubed09@gmail.com
+- 📫 You can reach out to me on syedubed09@gmail.com
 
 <!---
 ubed-ali/ubed-ali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
