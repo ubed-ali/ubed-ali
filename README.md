@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ubed
 - 👀 I’m interested in backend tech.
-- 🌱 I’m currently learning kotlin.
+- 🌱 I’m currently working on kotlin with micronaut.
 - 📫 You can reach out to me on syedubed09@gmail.com
 
 <!---
